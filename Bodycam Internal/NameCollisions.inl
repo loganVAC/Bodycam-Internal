@@ -9,54 +9,56 @@
 // FORWARD DECLARATIONS
 
 
-namespace Ump45 { struct FAnimBlueprintGeneratedConstantData; }
-
-namespace GlockMinus17 { struct FAnimBlueprintGeneratedConstantData; }
-
-namespace UZI_0 { struct FAnimBlueprintGeneratedConstantData; }
-
-namespace Deagle_0 { struct FAnimBlueprintGeneratedConstantData; }
-
-namespace FAL_0 { struct FAnimBlueprintGeneratedConstantData; }
-
-namespace HAND { struct FAnimBlueprintGeneratedConstantData; }
-
-namespace Scar { struct FAnimBlueprintGeneratedConstantData; }
-
-namespace Kobra_0 { struct FAnimBlueprintGeneratedConstantData; }
-
-namespace Remington { struct FAnimBlueprintGeneratedConstantData; }
-
-namespace Dragunov_0 { struct FAnimBlueprintGeneratedConstantData; }
-
-namespace UI_Slider_0 { class UUI_Slider_C; }
-
-namespace UI_Slider { class UUI_Slider_C; }
-
-namespace Grenade_0 { struct FAnimBlueprintGeneratedConstantData; }
+namespace Scar_0 { struct FAnimBlueprintGeneratedConstantData; }
 
 namespace AKM { struct FAnimBlueprintGeneratedConstantData; }
 
+namespace Ump45 { struct FAnimBlueprintGeneratedConstantData; }
+
 namespace Mp5 { struct FAnimBlueprintGeneratedConstantData; }
 
-namespace M4a1 { struct FAnimBlueprintGeneratedConstantData; }
+namespace GlockMinus17 { struct FAnimBlueprintGeneratedConstantData; }
+
+namespace Grenade { struct FAnimBlueprintGeneratedConstantData; }
+
+namespace Dragunov_0 { struct FAnimBlueprintGeneratedConstantData; }
+
+namespace FAL_0 { struct FAnimBlueprintGeneratedConstantData; }
+
+namespace UZI_0 { struct FAnimBlueprintGeneratedConstantData; }
 
 namespace M1911 { struct FAnimBlueprintGeneratedConstantData; }
 
+namespace Kobra_0 { struct FAnimBlueprintGeneratedConstantData; }
+
+namespace Deagle_0 { struct FAnimBlueprintGeneratedConstantData; }
+
+namespace Remington { struct FAnimBlueprintGeneratedConstantData; }
+
+namespace Fostech_0 { struct FAnimBlueprintGeneratedConstantData; }
+
+namespace M4a1 { struct FAnimBlueprintGeneratedConstantData; }
+
+
+namespace ALS_AnimBP
+{
+	struct FAnimBlueprintGeneratedConstantData;
+	struct FAnimBlueprintGeneratedMutableData;
+}
+
+namespace AnimBP_HorrorMob
+{
+	struct FAnimBlueprintGeneratedConstantData;
+	struct FAnimBlueprintGeneratedMutableData;
+}
 
 namespace AnimBP_Zombie
 {
-	struct FAnimBlueprintGeneratedConstantData;
 	struct FAnimBlueprintGeneratedMutableData;
+	struct FAnimBlueprintGeneratedConstantData;
 }
 
 namespace Lobby_Anim
-{
-	struct FAnimBlueprintGeneratedConstantData;
-	struct FAnimBlueprintGeneratedMutableData;
-}
-
-namespace ALS_AnimBP
 {
 	struct FAnimBlueprintGeneratedConstantData;
 	struct FAnimBlueprintGeneratedMutableData;
