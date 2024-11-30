@@ -3,7 +3,7 @@
 
 inline void DrawMenu()
 {
-	ImGui::Begin("Bodycam Cheat Made By Xeneht (Unknowncheats.me) V1.7");
+	ImGui::Begin("Bodycam Cheat Made By quasimoto");
 
 	if (ImGui::BeginTabBar("tabs"))
 	{
